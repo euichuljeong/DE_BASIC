@@ -13,3 +13,4 @@ wordcloud
 seaborn
 selenium
 webdriver-manager
+xmltodict
