@@ -1,0 +1,15 @@
+numpy==1.26.4
+scikit-surprise
+pandas
+matplotlib
+streamlit
+jupyterlab
+scikit-learn
+collie
+requests
+beautifulsoup4
+tqdm
+wordcloud
+seaborn
+selenium
+webdriver-manager
